@@ -18,8 +18,7 @@ st.markdown(
     """
     This application demonstrates an **early loan eligibility screening system**.
     
-    The logic is inspired by a trained machine learning model and is designed to
-    **support decision-making**, not replace bank approval.
+    It is designed to **support decision-making** and does not constitute final loan approval.
     """
 )
 
